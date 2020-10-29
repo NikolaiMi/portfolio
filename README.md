@@ -3,7 +3,7 @@
 **Содержание**:
 1. 4 из 11 проектов, которые я выполнил во время обучения В Яндекс.Практикуме.
 2. Пример решения первых 30 задач на сайте sql-ex.ru с объяснением логики решения <br>
-(советую в Google Colab: https://colab.research.google.com/drive/17ZFh8RrAejN5c7bFQphxbdiTou6tLlEo)
+(советую смотреть в Google Colab: https://colab.research.google.com/drive/17ZFh8RrAejN5c7bFQphxbdiTou6tLlEo)
 
 ## Подробнее о проектах Практикума
 
